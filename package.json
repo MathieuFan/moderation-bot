@@ -1,0 +1,22 @@
+{
+  "name": "modobot",
+  "version": "1.0.0",
+  "description": "A simple moderation bot",
+  "main": "modobot.js",
+  "scripts": {
+    "test": "modobot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathieufan"
+  },
+  "keywords": [
+    "modobot"
+  ],
+  "author": "Mathieu Fan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "memory": "0.0.3"
+  }
+}
